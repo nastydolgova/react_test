@@ -1,0 +1,35 @@
+.name{
+    text-align: right;
+    color: grey
+}
+
+.message{
+    width: 50vw;
+    border-radius: 5px;
+    background-color: bisque;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+.messagefield{
+    display: flex;
+    flex-direction: column;
+}
+
+.sender{
+    align-self: flex-end;
+    width: 30vw;
+    border-radius: 5px;
+    background-color: bisque;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+.answer{
+    align-self: flex-start;
+    width: 30vw;
+    border-radius: 5px;
+    background-color: burlywood;
+    margin: 10px;
+    box-sizing: border-box;
+}

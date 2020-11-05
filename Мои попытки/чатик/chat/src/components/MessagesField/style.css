@@ -1,0 +1,25 @@
+.totalfield{
+    margin: 0 auto;
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    padding: 5px;
+    margin: 10px 0; 
+}
+
+button{
+    margin-top: 5px;
+    height: 30px;
+}
+
+.messagefield{
+    height: 80%;
+    overflow-y: scroll;
+}
+
+p{
+    word-wrap: break-word
+}

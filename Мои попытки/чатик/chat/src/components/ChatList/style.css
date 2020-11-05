@@ -1,0 +1,26 @@
+ul{
+    list-style-type: none;
+    align-self: flex-start;
+    display: inline-block;
+}
+
+li{
+    width: 10vw;
+    text-align: center;
+    padding: 15px 0;
+    vertical-align: center;
+}
+
+li:hover{
+    background-color: coral;
+}
+
+li:active{
+    background-color: darkgray;
+}
+
+.chats {
+    display: flex;
+    flex-direction: column;
+    padding: 20px
+}

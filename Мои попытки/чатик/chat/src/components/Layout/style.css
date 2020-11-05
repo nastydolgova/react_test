@@ -1,0 +1,6 @@
+.contain {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        height: 80vh;
+}
